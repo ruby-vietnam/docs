@@ -5,7 +5,7 @@ Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". X
 Để đảm bảo chất lượng của room và cũng giúp người giúp bạn, BĐH yêu cầu các thành viên tham gia chat room
 khi đặt câu hỏi tuân theo các điều sau:
 
-* Câu hỏi phải xúc tích, không lan man
+* Câu hỏi phải súc tích, không lan man
 * Code phải wrap vào, code nào quá dài thì phải cho vào gist.github.com
 * Làm bài tập trước khi hỏi, tránh hỏi ngu vì ...lười
 
