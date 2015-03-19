@@ -1,4 +1,4 @@
-# Luật của chạt room
+# Luật của chat room
 
 Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". Xin hãy đừng quên cảm ơn ai đã dành thời gian giúp bạn.
 
