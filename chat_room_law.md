@@ -6,7 +6,7 @@ Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". �
 * Không văng tục hay dùng lời lẽ không lịch sự
 * Không nói chuyện về các chủ đề nhạy cảm về tôn giáo, chính trị và giới tính
 
-Thành viên làm phảm phải sẽ được cảnh cáo lần đầu và sẽ bị đá nếu tái phạm.
+Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá nếu tái phạm.
 
 Để đảm bảo chất lượng của room và cũng giúp người giúp bạn, BĐH yêu cầu các thành viên tham gia chat room
 khi đặt câu hỏi tuân theo các điều sau:
