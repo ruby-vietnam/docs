@@ -5,6 +5,8 @@ Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". �
 * Xin hãy đừng quên cảm ơn ai đã dành thời gian giúp bạn
 * Không văng tục hay dùng lời lẽ không lịch sự
 * Không nói chuyện về các chủ đề nhạy cảm về tôn giáo, chính trị và giới tính
+* Không chia sẻ sách hay phần mềm lậu
+* Không chia sẻ thông tin cá nhân như số đt hay địa chỉ cá nhân
 
 Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá nếu tái phạm.
 
