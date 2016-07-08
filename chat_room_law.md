@@ -3,9 +3,8 @@
 Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". Điều này có nghĩa là gì:
 
 * Xin hãy đừng quên cảm ơn ai đã dành thời gian giúp bạn
-* Không văng tục hay dùng lời lẽ không lịch sự
+* Không văng tục hay dùng lời lẽ không tế nhị hay lịch sự với người tiếp nhận
 * Không nói chuyện về các chủ đề nhạy cảm về tôn giáo, chính trị và giới tính
-* Không chia sẻ sách hay phần mềm lậu
 * Không chia sẻ thông tin cá nhân như số đt hay địa chỉ cá nhân
 * "Be positive" -- hành xử tích cực, không đưa ra những nhận xét tiêu cực nếu bản thân không hiểu rõ vấn đề
 * NO SPAM! - Nếu bạn là người tuyển dụng thì xin trao đổi trong room #jobs, còn nếu bạn tìm co-founder thì phải làm bài tập trước khi hỏi, nếu bạn hỏi ngu thì luật Chất lượng câu hỏi ở dưới sẽ được áp dụng
