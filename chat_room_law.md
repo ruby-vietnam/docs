@@ -8,6 +8,8 @@ Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". �
 * Không chia sẻ thông tin cá nhân như số đt hay địa chỉ cá nhân
 * "Be positive" -- hành xử tích cực, không đưa ra những nhận xét tiêu cực nếu bản thân không hiểu rõ vấn đề
 * NO SPAM! - Nếu bạn là người tuyển dụng thì xin trao đổi trong room #jobs, còn nếu bạn tìm co-founder thì phải làm bài tập trước khi hỏi, nếu bạn hỏi ngu thì luật Chất lượng câu hỏi ở dưới sẽ được áp dụng
+* Toàn bộ các cuộc thoại không liên quan kỹ thuật xin hãy đưa vào #random
+* Các câu hỏi của các bạn mới nhập môn xin hỏi tại #newbie
 
 Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá nếu tái phạm.
 
