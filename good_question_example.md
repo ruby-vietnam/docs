@@ -1,4 +1,4 @@
-**Q: Làm sao để có thể gọi một rake task từ một rake task khác?**
+*Q: Làm sao để có thể gọi một rake task từ một rake task khác?*
 
 Xin chào mọi người
 
