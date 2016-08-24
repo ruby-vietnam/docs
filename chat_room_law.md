@@ -26,4 +26,4 @@ Nếu thành viên nào lười biếng nghiên cứu và lạm dụng chat room
 
 Cảm ơn mọi người nhiều
 
-ad Trung
+BĐH
