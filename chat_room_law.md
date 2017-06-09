@@ -11,7 +11,8 @@ Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". �
 * Toàn bộ các cuộc thoại không liên quan kỹ thuật xin hãy đưa vào #random
 * Các câu hỏi của các bạn mới nhập môn xin hỏi tại #newbie
 
-Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá nếu tái phạm.
+Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá nếu tái phạm. 
+(Khi bị đá, bạn không cần hỏi tại sao, vì câu trả lời là: ban quản trị thích vậy)
 
 Để đảm bảo chất lượng của room và cũng giúp người giúp bạn, BĐH yêu cầu các thành viên tham gia chat room
 khi đặt câu hỏi tuân theo các điều sau:
