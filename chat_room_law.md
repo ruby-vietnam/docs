@@ -10,6 +10,7 @@ Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". �
 * NO SPAM! - Nếu bạn là người tuyển dụng thì xin trao đổi trong room #jobs, còn nếu bạn tìm co-founder thì phải làm bài tập trước khi hỏi, nếu bạn hỏi ngu thì luật Chất lượng câu hỏi ở dưới sẽ được áp dụng
 * Toàn bộ các cuộc thoại không liên quan kỹ thuật xin hãy đưa vào #random
 * Các câu hỏi của các bạn mới nhập môn xin hỏi tại #newbie
+* Không tag toàn channel (chỉ admin khi cần thông báo toàn dân mới được)
 
 Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá nếu tái phạm. Suy xét vào tuỳ trường hợp cá biệt, BĐH hay admin/mod của room có quyền kick bạn ra khỏi room hoặc ban không cảnh cáo lần đầu để đảm bảo môi trường sinh hoạt chung công bằng và lành mạnh.
 
