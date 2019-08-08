@@ -2,6 +2,7 @@
 
 Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". Điều này có nghĩa là gì:
 
+* **Vui lòng không tag @channel hoặc @here trong bất kì room nào.** Việc tag này chỉ dành cho các thành viên ban quản trị khi thực sự cần phát thông báo cho mọi người.
 * Xin hãy đừng quên cảm ơn ai đã dành thời gian giúp bạn
 * Không văng tục hay dùng lời lẽ không tế nhị hay lịch sự với người tiếp nhận (vd: xưng hô mày tao hay thằng)
 * Không nói chuyện về các chủ đề nhạy cảm về tôn giáo, chính trị và giới tính
