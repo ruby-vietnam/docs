@@ -17,7 +17,7 @@ Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá
 Để đảm bảo chất lượng room và cũng giúp người giúp bạn, BĐH yêu cầu các thành viên tham gia chat room
 khi đặt câu hỏi tuân theo các điều sau:
 
-* Câu hỏi phải súc tích, không lan man, có đầy đủ các thông tin từ input > implementation > output, tham khảo [câu hỏi mẫu](https://raw.githubusercontent.com/ruby-vietnam/docs/master/good_question_example.md)
+* Câu hỏi phải súc tích, không lan man, có đầy đủ các thông tin từ input > implementation > output, tham khảo [câu hỏi mẫu](https://github.com/ruby-vietnam/docs/blob/master/good_question_example.md)
 * Code phải wrap vào, code nào quá dài thì phải cho vào gist.github.com
 * Đọc kĩ hướng dẫn của người trả lời trước khi hỏi lại 
 * Làm bài tập trước khi hỏi, tránh hỏi ngu vì ...lười
