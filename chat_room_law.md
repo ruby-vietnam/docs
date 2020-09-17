@@ -3,7 +3,7 @@
 Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". Điều này có nghĩa là gì:
 
 * Xin hãy đừng quên cảm ơn ai đã dành thời gian giúp bạn
-* Không văng tục hay dùng lời lẽ không tế nhị hay lịch sự với người tiếp nhận (vd: xưng hô mày tao hay thằng)
+* Không văng tục hay dùng lời lẽ khiếm nhã với người tiếp nhận (vd: xưng hô mày tao hay thằng)
 * Không nói chuyện về các chủ đề nhạy cảm về tôn giáo, chính trị và giới tính
 * Không chia sẻ thông tin cá nhân như số đt hay địa chỉ cá nhân
 * "Be positive" -- hành xử tích cực, không đưa ra những nhận xét tiêu cực nếu bản thân không hiểu rõ vấn đề
